@@ -16,7 +16,8 @@ Ansible is an open-source automation platform. It is very, very simple to set up
    ```
 1. Install ansible using pip check for version
     ```sh
-    pip3 install ansible
+    pip3 install --upgrade pip
+    pip install ansible
    ansible --version
    ```
    
