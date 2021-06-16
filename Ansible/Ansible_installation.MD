@@ -38,6 +38,7 @@ Ansible is an open-source automation platform. It is very, very simple to set up
    ```
 1. Copy keys onto all ansible managed hosts (on Control node)
    ```sh 
+   https://phoenixnap.com/kb/ssh-permission-denied-publickey
    ssh-copy-id ansadmin@<target-server>
    ```
 
